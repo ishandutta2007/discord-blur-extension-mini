@@ -44,7 +44,8 @@ English &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&
 
 
 
-How to hide discord chats while sharing screen ?
+### How to hide discord chats while sharing the screen ?
+
 - Discord Blur is a Discord ™ Privacy control app.
 - This extension works with discord.com.
 - Blur Discord ™ channel names, member names, member photos, server icons, chats.
